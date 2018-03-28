@@ -8,7 +8,7 @@ LineWrapper = require '../line_wrapper'
 
 module.exports =
   initTables: ->
-    console.log 'init tables'
+    # console.log 'init tables'
 
   table: (data, options) ->
     @tableOptions = options
